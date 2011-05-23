@@ -1,4 +1,4 @@
-  # Ruby on Rails Tutorial: первое приложение
+# Ruby on Rails Tutorial: первое приложение
 
 Это первое приложение для 
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
